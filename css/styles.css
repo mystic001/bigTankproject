@@ -3,7 +3,7 @@
   overflow: hidden;
   background-image: linear-gradient(#ed5f47,#fe2d3b);
   color:#fff;
-  height:100vh;
+height:100vh;
 
 }
 header{
@@ -274,19 +274,19 @@ font-style: italic;
 
 }
 
+.zerone{
+  position:absolute;
+  font-size:2.5em;
+  font-weight: bold;
+  top:400px;
+  right:100px;
+  font-family: "Montserrat", sans-serif;
+}
+
 
 .foot img{
 position:absolute;
 top:400px;
-left:250px;
+left:200px;
 }
 
-
-.foot h1{
-  position:absolute;
-  right:100px;
-  top:420px;
-  font-size: 2.5em;
-  font-family:"Montserrat", sans-serif;
-  font-weight: bold;
-}
