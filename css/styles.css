@@ -278,14 +278,19 @@ font-style: italic;
   position:absolute;
   font-size:2.5em;
   font-weight: bold;
-  top:350px;
+  top:-60px;
   right:100px;
   font-family: "Montserrat", sans-serif;
 }
 
-
 .foot img{
 position:absolute;
-top:350px;
+height:400px;
+top:0px;
 left:200px;
 }
+
+footer {
+  position:relative;
+}
+
