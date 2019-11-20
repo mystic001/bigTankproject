@@ -273,24 +273,26 @@ margin-left:40px;
 font-style: italic;
 
 }
+.foot{
+  margin: 0 auto;
+  position:absolute;
+  top:0;
+  right:0;
+  left:0;
+}
 
 .zerone{
-  position:absolute;
+  position:relative;
   font-size:2.5em;
   font-weight: bold;
-  top:-60px;
-  right:100px;
+  top:9em;
+  left:10em;
   font-family: "Montserrat", sans-serif;
 }
 
 .foot img{
-position:absolute;
-height:400px;
-top:0px;
-left:200px;
+position:relative;
+height:600px;
+top:350px;
+left:100px;
 }
-
-footer {
-  position:relative;
-}
-
