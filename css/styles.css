@@ -191,7 +191,7 @@ margin-top:10px;
 
 .info{
   margin-top: 10px;
-  list-style-type: disc;
+  list-style-type: disc !important;
   list-style-position: inside;
   font-family:"Mada", sans-serif;
 }
